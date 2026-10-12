@@ -9,7 +9,7 @@ It reads data from macOS's built-in `powermetrics` and renders it with the [`ter
 ![license](https://img.shields.io/badge/license-MIT-green)
 
 <video width="800" controls>
-  <source src="./assets/demo.mp4" type="video/mp4">
+  <source src="https://github.com/StarxSky/Cappuccino/blob/main/assets/demo.mp4" type="video/mp4">
   
 </video>
 
