@@ -8,10 +8,7 @@ It reads data from macOS's built-in `powermetrics` and renders it with the [`ter
 ![go](https://img.shields.io/badge/go-1.27%2B-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
 
-<video width="800" controls>
-  <source src="https://github.com/StarxSky/Cappuccino/blob/main/assets/demo.mp4" type="video/mp4">
-  
-</video>
+![](https://github.com/StarxSky/Cappuccino/blob/main/assets/demo.png)
 
 ## Features
 
